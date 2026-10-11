@@ -1,0 +1,52 @@
+{
+  "slug": "daily-foods-resturant-and-caterers-kollam",
+  "name": "Daily Foods Resturant & Caterers",
+  "shortName": "Daily Foods Resturant",
+  "descriptor": "Catering Services",
+  "address": "Neendakara - Chinnakkada Rd, Kureepuzha North, Kollam, Keralam 691003",
+  "area": "Kureepuzha North",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691003",
+  "geo": {
+    "lat": 8.914205599999999,
+    "lng": 76.5598132
+  },
+  "mapsLink": "https://maps.google.com/?cid=11306236610686882149",
+  "phone": "+91 98098 84924",
+  "whatsapp": "919809884924",
+  "hours": "Open 2:30 pm – 12 pm · all days",
+  "opens": "14:30",
+  "closes": "12:00",
+  "rating": 4.5,
+  "reviewCount": 70,
+  "reviews": [
+    {
+      "name": "Anoop rajendran",
+      "rating": 5,
+      "quote": "Excellent cuisine, attentive service, and a pleasant ambiance."
+    },
+    {
+      "name": "Ramesh Keshavan",
+      "rating": 5,
+      "quote": "I've been ordering from Daily Foods frequently since last 2 years. They have maintained their taste and quality, and their customer service is excellent. Beef roast or Chicken roast along with parotta has been my favourite."
+    },
+    {
+      "name": "akhil s",
+      "rating": 5,
+      "quote": "Visited recently had a very good food with Rich in taste and affordable price . Must try \" chicken fry , kothuporotta \" Excellent service and customer management ."
+    },
+    {
+      "name": "Yadav. S",
+      "rating": 5,
+      "quote": "I Started coming to this place for nearly 1 and half year the food here becomes tastier day by day. Their cooperation towards how they apporach customers is actually fantastic. The must try food here are porotta, chicken roast, butter chicken, chilly chicken, beef roast.. 😋❤️"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://daily-foods-resturant-and-caterers.vercel.app"
+}
